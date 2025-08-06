@@ -40,5 +40,11 @@ elif 25<= IMC < 30:
 
 else:
     print("tienes obesidad")
+print("Datos de usuario")
+print("nombre:",nombre +" "+ apellido +" "+ apellidom, """
+estatura:""", estatura,"""
+peso:""", peso,"""
+IMC:""", IMC)
+
 
 
