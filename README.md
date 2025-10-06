@@ -1,19 +1,20 @@
-Calculadora IMC
+Este repositorio contiene dos programas desarrollados como parte del módulo 2 del bootcamp de programación en Python. El objetivo fue aplicar estructuras de control (if, else) y trabajar con entrada de datos, validación y lógica condicional.
+longitud de una frase :
+Este programa solicita al usuario que ingrese una palabra y evalúa su longitud. La lógica implementada considera tres posibles escenarios:
+Si la palabra tiene entre 4 y 8 letras, se imprime: "La palabra es correcta."
+Si tiene menos de 4 letras, se imprime: "Hacen falta letras. Solo tiene N letras."
+Si tiene más de 8 letras, se imprime: "Sobran letras. Tiene N letras."
+2._ Encuentra el cuadrante :
+Este segundo programa solicita dos coordenadas (X, Y) y determina en qué cuadrante del plano cartesiano se encuentra el punto. También verifica que ninguna coordenada sea cero, ya que eso invalidaría la ubicación en un cuadrante.
+La lógica se basa en los signos de X e Y.
+Hasta ahora, el bootcamp ha sido una experiencia muy enriquecedora. He aprendido a:
 
-Este proyecto es una calculadora de **Índice de Masa Corporal (IMC)** desarrollada en **Python**.  
-Permite al usuario ingresar su peso y altura, y calcula su IMC según la fórmula estándar.
+Pensar de forma lógica y estructurada.
 
-¿Qué es el IMC?
+Validar entradas y manejar errores.
 
-El Índice de Masa Corporal (IMC) es una medida que relaciona el peso y la altura de una persona.  
-Sirve como una guía general para determinar si una persona tiene un peso saludable.
+Traducir problemas cotidianos en soluciones programables.
 
-¿Cómo usar este proyecto?
-1. Asegúrate de tener Python instalado en tu sistema.
-2. Descarga o clona este repositorio:
+Usar Python como herramienta para resolver desafíos técnicos y prácticos.
 
- Autor
-Nombre: Jordi Ivan Garcia Terron 
-
-GitHub: https://github.com/Jordigt12
-
+Me ha gustado especialmente cómo los proyectos conectan la teoría con aplicaciones reales. Cada reto me ha motivado a mejorar y a entender mejor cómo se construyen programas robustos y funcionales.
